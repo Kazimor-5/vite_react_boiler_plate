@@ -5,4 +5,5 @@ Ce boilerplate mets à disposition tout les fichiers et librairies utiles pour c
 ### Pour initialiser le projet:
 
 `pnpm install` permet d'installer toutes les dépendances du projet.
+<br/>
 `pnpm run dev` permet de lancer le serveur de développement.
